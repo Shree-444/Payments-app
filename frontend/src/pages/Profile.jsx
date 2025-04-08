@@ -68,7 +68,7 @@ export function Profile() {
                 </div>
             </nav>
             <div className="bg-green-50 shadow-[0_5px_15px_rgba(0,0,0,0.25)] rounded-md w-110 h-75 ml-133 mt-60">
-                <h1 className="text-center font-semibold pt-4 text-2xl">User Details</h1>
+                <h1 className="text-center font-semibold pt-4 text-3xl font-sans">User Details</h1>
                 <hr className="w-59 text-green-500 ml-25 pt-2 mt-4"></hr>
                 <div>
                     {editMode ? (
