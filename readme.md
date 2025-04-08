@@ -9,7 +9,7 @@ A simple full-stack web application built with the MERN stack (MongoDB, Express.
 - View current balance
 
 - Edit and update profile information
-- 
+ 
 ## Features
 - Authentication: Sign up and log in using JWT-based authentication
 
@@ -18,7 +18,7 @@ A simple full-stack web application built with the MERN stack (MongoDB, Express.
 - Balance Tracking: See your updated balance after every transaction
 
 - Profile Management: Edit profile details such as username, first name, last name, etc.
-- 
+
 ## Tech Stack
 
 - Frontend: React.js (with Axios)
