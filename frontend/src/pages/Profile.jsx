@@ -67,9 +67,9 @@ export function Profile() {
                     <img className="w-50 h-40 relative -top-10 ml-5" src="https://i.ibb.co/rKz95CCK/payzee-logo-removebg-preview-2.png"></img>
                 </div>
             </nav>
-            <div className="bg-green-50 outline-1 outline-emerald-400 rounded-md shadow-xl w-110 h-70 ml-133 mt-60">
-                <h1 className="text-center font-semibold pt-3 text-2xl">User Details</h1>
-                <hr className="mt-4 opacity-30 text-emerald-600"></hr>
+            <div className="bg-green-50 shadow-[0_5px_15px_rgba(0,0,0,0.25)] rounded-md w-110 h-75 ml-133 mt-60">
+                <h1 className="text-center font-semibold pt-4 text-2xl">User Details</h1>
+                <hr className="w-59 text-green-500 ml-25 pt-2 mt-4"></hr>
                 <div>
                     {editMode ? (
                         <div className="text-lg mt-5 ml-5">
